@@ -1,4 +1,4 @@
 # maven-project
 
 Simple Maven Project
-karinejolie
+karinejolie is a student
